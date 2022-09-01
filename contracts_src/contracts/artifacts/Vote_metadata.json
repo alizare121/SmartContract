@@ -188,7 +188,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/vote.sol": "Vote"
+			"contracts_src/contracts/vote.sol": "Vote"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -202,7 +202,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/vote.sol": {
+		"contracts_src/contracts/vote.sol": {
 			"keccak256": "0x67fe0264d3a5588ed15023dff95ad0deed3a43448a7712382088d524c28fc5be",
 			"license": "GPL-3.0",
 			"urls": [

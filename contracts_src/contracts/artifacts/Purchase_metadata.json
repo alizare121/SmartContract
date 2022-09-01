@@ -115,7 +115,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/purchase.sol": "Purchase"
+			"contracts_src/contracts/purchase.sol": "Purchase"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -129,7 +129,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/purchase.sol": {
+		"contracts_src/contracts/purchase.sol": {
 			"keccak256": "0x68f7700c8def1f1e02024c0f2920c787bdb7ad0fdae6a5afd8f641f9eac8ed57",
 			"license": "GPL-3.0",
 			"urls": [
